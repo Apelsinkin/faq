@@ -33,3 +33,13 @@ git push
 [git-scm.com](https://git-scm.com/) 
 ### VS Code:
 [code.visualstudio.com](https://code.visualstudio.com/)
+### SublimeText 3 
+[sublimetext.com](https://www.sublimetext.com/3) 
+
+# Технологии:
+### БЭМ методолгоия
+[bem.info](https://ru.bem.info/methodology/)
+
+# Ресурсы:
+### Шрифты
+[fonts.google](https://fonts.google.com/)
